@@ -35,8 +35,8 @@ function App() {
     },
     2: {
       title:langInfo.projects.titles.cards,
-      img: '/memorygame.png',
-      stack: ['/javascript.png', '/css.svg', '/html.png'],
+      img: './memorygame.png',
+      stack: ['./javascript.png', '.css.svg', '/html.png'],
       description: langInfo.projects.cards,
       developing:false
     }
